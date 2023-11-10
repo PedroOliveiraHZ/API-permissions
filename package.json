@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsnd src/server.ts ",
+    "typeorm": "tsnd ./node_modules/typeorm/cli.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "pg": "^8.11.3",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.45"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/express": "^4.17.7",
+    "@types/jsonwebtoken": "^8.5.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^3.9.10"
+  },
+  "description": "<p align=\"center\">🎉   <a href=\"#-sobre\"> Sobre </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   <a href=\"#-conceitos-ensinados\">Conceitos ensinados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   <a href=\"#-material-de-apoio\">Material de apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;     <a href=\"#-como-baixar\">Como baixar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;     <a href=\"#️-funcionalidades\">Funcionalidades</a> </p>",
+  "keywords": [],
+  "author": ""
+}
