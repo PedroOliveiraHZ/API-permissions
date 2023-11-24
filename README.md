@@ -8,11 +8,11 @@
 
 # 🔖 Sobre
 
-Esse projeto foi desenvolvido com o objetivo de ensinar como criar controle de acesso de usuário, utilizando NodeJS.
+Projeto realizado com o objetivo de ensinar como criar controle de acesso de usuário, utilizando NodeJS.
 
-## ✍🏻 Conceitos ensinados
+## ✍🏻 Conceitos ultilizados
 
-Durante o desenvolvimento, foi ensinado sobre relacionamento `Many to Many`, utilizando `TypeORM`, como criar `Roles e Permissions` e vincular ao user e como criar um `middleware` de validação das rotas, de acordo com as permissões.
+Durante a criação , foi mostrado sobre relacionamento `Many to Many`, utilizando `TypeORM`, como criar `Roles e Permissions` e vincular ao user e como criar um `middleware` de validação das rotas, de acordo com as permissões.
 
 ## 🗂 Material de apoio
 
