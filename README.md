@@ -1,6 +1,6 @@
 <p align="center">🎉
   <a href="#-sobre"> Sobre </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-conceitos-ensinados">Conceitos ensinados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-conceitos-ensinados">Conceitos ultilizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-material-de-apoio">Material de apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-como-baixar">Como baixar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#️-funcionalidades">Funcionalidades</a>
@@ -26,7 +26,7 @@ Durante a criação , foi mostrado sobre relacionamento `Many to Many`, utilizan
 ```bash
 
     // Clonar repositório
-    $ git clone https://github.com/danileao/permissions_users
+    $ git clone https://github.com/PedroOliveiraHZ/API-permissions.git
 
     // Acessar diretório
     $ cd permissions_users
